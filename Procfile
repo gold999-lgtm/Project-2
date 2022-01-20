@@ -1,1 +1,1 @@
-web: gunicorn streamlit_stock_price.py:app
+web: gunicorn streamlit_stock_price:app
