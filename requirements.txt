@@ -2,3 +2,4 @@ tensorflow-cpu
 gunicorn
 pandas
 matplotlib
+pandas_datareader
