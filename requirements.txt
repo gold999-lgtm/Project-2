@@ -1,3 +1,4 @@
 tensorflow-cpu
 gunicorn
 pandas
+matplotlib
