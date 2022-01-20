@@ -1,1 +1,1 @@
-web: gunicorn streamlit_stock_price:app
+web: sh setup.sh && streamlit run streamlit_stock_price.py
