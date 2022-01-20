@@ -4,3 +4,4 @@ pandas
 matplotlib
 pandas_datareader
 streamlit
+scikit-learn
