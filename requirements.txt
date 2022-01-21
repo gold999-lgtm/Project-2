@@ -1,7 +1,7 @@
 tensorflow-cpu==2.5.0
-gunicorn
-pandas
-matplotlib
+gunicorn==20.1.0
+pandas==0.25.0
+matplotlib==3.0.0
 pandas_datareader
-streamlit
-scikit-learn
+streamlit==0.89
+scikit-learn==1.0.2
