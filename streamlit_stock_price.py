@@ -18,7 +18,7 @@ st.write(df.describe())
 #VISUALIZATIONS
 st.subheader("Closing Price vs Time chart")
 fig=plt.figure(figsize=(12,6))
-plt.plot(df.Close,"Closing price")
+plt.plot(df.Close,label="Closing price")
 plt.xlabel("TIME")
 plt.ylabel("PRICE")
 plt.legend()
